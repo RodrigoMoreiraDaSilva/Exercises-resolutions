@@ -15,6 +15,6 @@ class Main {
     // keep this function call here
     Scanner s = new Scanner(System.in);
 
-    System.out.print(FirstFactorial(s.nextInt()));
+    System.out.print(FirstFactorial(s.nextLine()));
   }
 }

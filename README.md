@@ -36,7 +36,7 @@
 Title           | Difficulty        | Description
 ----------------|-------------------|------------
 [First Factorial](resolutions/FirstFactorial) | Easy              | For this challenge you will be determining the factorial for a given number.
-[Find Intesection]() | Easy | For this challenge you will be manipulating an array.
+[Find Intesection](resolutions/FindIntersection) | Easy | For this challenge you will be manipulating an array.
 [First Reverse]() | Easy | For this challenge you will be reversing a string.
 [Codeland Username Validation]() | Easy | A premium challenge for the Codeland conference.
 [Longest Word]() | Easy | For this challenge you will be determining the largest word in a string.
