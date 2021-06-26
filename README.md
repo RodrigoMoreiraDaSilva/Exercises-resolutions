@@ -36,9 +36,9 @@
 Title           | Difficulty        | Description
 ----------------|-------------------|------------
 [First Factorial](resolutions/FirstFactorial) | Easy              | For this challenge you will be determining the factorial for a given number.
-[Find Intesection](resolutions/FindIntersection) | Easy | For this challenge you will be manipulating an array.
+[Find Intersection](resolutions/FindIntersection) | Easy | For this challenge you will be manipulating an array.
 [First Reverse]() | Easy | For this challenge you will be reversing a string.
-[Codeland Username Validation]() | Easy | A premium challenge for the Codeland conference.
+[Codeland Username Validation](resolutions/CodelandUsernameValidation) | Easy | A premium challenge for the Codeland conference.
 [Longest Word]() | Easy | For this challenge you will be determining the largest word in a string.
 [Bracket Matcher]() | Medium | For this challenge you will determine if the brackets in a string are correctly matched up.
 [Longest Palindromic Substring]() | Medium | For this challenge you will return the longest palindromic in a String. 
