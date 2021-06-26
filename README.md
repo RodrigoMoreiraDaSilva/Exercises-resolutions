@@ -40,7 +40,7 @@ Title           | Difficulty        | Description
 [First Reverse](resolutions/FirstReverse) | Easy | For this challenge you will be reversing a string.
 [Codeland Username Validation](resolutions/CodelandUsernameValidation) | Easy | A premium challenge for the Codeland conference.
 [Longest Word]() | Easy | For this challenge you will be determining the largest word in a string.
-[Bracket Matcher]() | Medium | For this challenge you will determine if the brackets in a string are correctly matched up.
+[Bracket Matcher](resolutions/LongestWord) | Medium | For this challenge you will determine if the brackets in a string are correctly matched up.
 [Longest Palindromic Substring]() | Medium | For this challenge you will return the longest palindromic in a String. 
 
 ****
